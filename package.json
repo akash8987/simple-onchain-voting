@@ -1,0 +1,16 @@
+{
+  "name": "simple-onchain-voting",
+  "version": "1.0.0",
+  "description": "Smart contract files for on-chain voting",
+  "main": "Voting.sol",
+  "dependencies": {
+    "solc": "^0.8.19"
+  },
+  "keywords": [
+    "solidity",
+    "blockchain",
+    "web3",
+    "voting",
+    "governance"
+  ]
+}
